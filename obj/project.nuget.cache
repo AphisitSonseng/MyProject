@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zk0C5nHVrM03Itpq7tM466LWeUjqhrQgfhl/CuyeyzVXtH98UUVw96M2nxnWTx2jpTXaiPktkWFAKQlJ6nBZng==",
+  "dgSpecHash": "0OJr+3uR16MPMMn8azGLSVpDFt55r8IxteR8QtB14sVYbpgnpub4JSJXaEyI9YsdXKdwB7sVrDRaqzgDNP9mBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ebi G\\Desktop\\CMPOS\\CMPOS.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Code\\MyProject\\CMPOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prapatsorn\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\7.0.5\\microsoft.aspnetcore.authentication.google.7.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

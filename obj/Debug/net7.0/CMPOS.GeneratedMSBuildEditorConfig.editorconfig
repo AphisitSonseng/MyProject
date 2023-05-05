@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CMPOS
 build_property.RootNamespace = CMPOS
-build_property.ProjectDir = c:\Users\Ebi G\Desktop\CMPOS\
+build_property.ProjectDir = e:\Code\MyProject\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Ebi G\Desktop\CMPOS
+build_property.MSBuildProjectDirectory = e:\Code\MyProject
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Ebi G/Desktop/CMPOS/Views/Home/Index.cshtml]
+[e:/Code/MyProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Ebi G/Desktop/CMPOS/Views/Home/Privacy.cshtml]
+[e:/Code/MyProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Ebi G/Desktop/CMPOS/Views/Shared/Error.cshtml]
+[e:/Code/MyProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Ebi G/Desktop/CMPOS/Views/Shared/_ValidationScriptsPartial.cshtml]
+[e:/Code/MyProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Ebi G/Desktop/CMPOS/Views/_ViewImports.cshtml]
+[e:/Code/MyProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Ebi G/Desktop/CMPOS/Views/_ViewStart.cshtml]
+[e:/Code/MyProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Ebi G/Desktop/CMPOS/Views/Shared/_Layout.cshtml]
+[e:/Code/MyProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w7s57kd1y3
